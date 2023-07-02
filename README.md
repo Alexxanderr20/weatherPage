@@ -1,0 +1,1 @@
+This project is from The Odin Project. In this project I am using HTML, CSS, and JavaScript. I'm mainly learning how to use API's to integrate weather information in order to display information to the user.
